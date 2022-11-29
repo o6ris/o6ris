@@ -31,10 +31,10 @@ At the same time, I'm studying the functionality of the Blockchain ⚡ and the c
 
 - A Space Journey **(Hackathon 1st place)** : Development of a web application on the theme of travel.
   - Languages/Framework/Library : React & CSS3. 
-  - Repository : https://github.com/o6ris/NoPainNoGain
+  - Repository : github.com/o6ris/NoPainNoGain
 - Pokebiz **(2nd school Project)** : Development of an e-commerce website on the theme of Pokemons.
   - Languages/Framework/Library : React, Node, Express, Bootstrap, SQL. 
-  - Repository : https://github.com/WildCodeSchool/2022-09-JS-RMT-JSCREW-projet2-team2
+  - Repository : github.com/o6ris/pokebiz
 
 
   
