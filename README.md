@@ -4,6 +4,15 @@ Formerly specialized in video and graphic content creation 🎥, I had the chanc
 During all these years 📅, I discovered the Web environment and understood all the possibilities it brings to our world.
 And it is by discovering the Web 3 🌐 and understood all the potential that it will be able to bring in the future, that it was obvious to me to reconvert as a Web developer to play my part.
 
+## Here's my last projects : 
+
+- A Space Journey **(Hackathon 1st place)** : Development of a web application on the theme of travel.
+  - Languages/Framework/Library : React & CSS3. 
+  - Repository : https://github.com/o6ris/NoPainNoGain
+- Pokebiz **(2nd school Project)** : Development of an e-commerce website on the theme of Pokemons.
+  - Languages/Framework/Library : React, Node, Express, Bootstrap, SQL. 
+  - Repository : https://github.com/o6ris/pokebiz
+
 ## Languages and Tools:
 #### - Frontend Techs :
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -26,15 +35,6 @@ And it is by discovering the Web 3 🌐 and understood all the potential that it
   
 
 At the same time, I'm studying the functionality of the Blockchain ⚡ and the creation of SmartContract.
-
-## Here's my last projects : 
-
-- A Space Journey **(Hackathon 1st place)** : Development of a web application on the theme of travel.
-  - Languages/Framework/Library : React & CSS3. 
-  - Repository : https://github.com/o6ris/NoPainNoGain
-- Pokebiz **(2nd school Project)** : Development of an e-commerce website on the theme of Pokemons.
-  - Languages/Framework/Library : React, Node, Express, Bootstrap, SQL. 
-  - Repository : https://github.com/o6ris/pokebiz
 
 
   
