@@ -14,7 +14,7 @@ And it is by discovering the Web 3 🌐 and understood all the potential that it
   - Repository : https://github.com/o6ris/pokebiz
 - Inaka **(1rst school Project)** : Development of a website that makes you discover the most important places in Japan.
   - Languages/Framework/Library : HTML5, CSS3, Javascript. 
-  - Repository : https://github.com/o6ris/pokebiz
+  - Repository : https://github.com/o6ris/inaka
 
 ## Languages and Tools:
 #### - Frontend Techs :
