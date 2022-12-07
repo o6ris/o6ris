@@ -9,12 +9,14 @@ And it is by discovering the Web 3 🌐 and understood all the potential that it
 - A Space Journey **(Hackathon 1st place)** : Development of a web application on the theme of travel.
   - Languages/Framework/Library : React & CSS3. 
   - Repository : https://github.com/o6ris/NoPainNoGain
+  - Site : https://dev--hackathon-space-journey.netlify.app/
 - Pokebiz **(2nd school Project)** : Development of an e-commerce website where you can purshase a new Pokemon cards generation.
   - Languages/Framework/Library : React, Node, Express, Bootstrap, SQL. 
   - Repository : https://github.com/o6ris/pokebiz
 - Inaka **(1rst school Project)** : Development of a website that makes you discover the most important places in Japan.
   - Languages/Framework/Library : HTML5, CSS3, Javascript. 
   - Repository : https://github.com/o6ris/inaka
+  - Site : https://wildcodeschool.github.io/2022-09-JS-RMT-JSCREW-TEAM-B/
 
 ## Languages and Tools:
 #### - Frontend Techs :
