@@ -14,7 +14,7 @@ Currently, I’m working on a web application for myself to simplify workout tra
   - Repository: https://github.com/o6ris/training-app
 --
 ### Pofessional projects (March 2023 - June 2024) : 
-- LUO **(Rental Lease Management)** : I maintain and develop features as part of a team for a dynamic web application designed to help users efficiently manage their rental properties, offering tools for tracking leases, payments, and important deadlines.
+- LUO **(Rental Lease Manager)** : I maintain and develop features as part of a team for a dynamic web application designed to help users efficiently manage their rental properties, offering tools for tracking leases, payments, and important deadlines.
   - Languages/Framework/Library: Next.js, module.css, MongoDB, NextAuth.js, MinIO.
 - LSA **(Insurance Aggregator tool)** : I maintain and develop new features for a web application for a company. The main goal of the application is to allow their team to sign in and guide clients in selecting the best insurance options tailored to their individual needs.
   - Languages/Framework/Library: React, Python, CSS3, Redis. 
