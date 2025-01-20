@@ -1,19 +1,44 @@
 ### Hi there 👋
 
-Formerly specialized in video and graphic content creation 🎥, I had the chance to collaborate closely with developers for a very long time.
-During all these years 📅, I discovered the Web environment and understood all the possibilities it brings to our world.
-And it is by discovering the Web 3 🌐 and understood all the potential that it will be able to bring in the future, that it was obvious to me to reconvert as a Web developer to play my part.
+Formerly specialized in video, photo, and graphic content creation 🎥, I had the chance to collaborate closely with developers for quite a time. During these years 📅, I discovered the Web environment and understood all the possibilities it brings to our world. It was then that I realized my interest in web development and decided to make the transition into this field to play my part in shaping the future of the web.
+
+To make this transition, I completed a 5-month intensive bootcamp, where I learned how to use React for frontend development, Express for backend development, and MySQL for database management. I also became proficient in TailwindCSS for building responsive and visually appealing designs. After that, I worked for 16 months as a frontend web developer at a company, where I honed my skills in creating responsive and dynamic web applications.
+
+Currently, I’m working on a web application for myself to simplify workout tracking, which I’m also using to improve my development skills.
 
 ## Here's my last projects : 
 
-- A Space Journey **(Hackathon 1st place)** : Development of a web application on the theme of travel.
+### Personal projects :
+- GrindPal **(Workout tracker)** : I'm building a mobile-friendly tool to simplify workout tracking. Users will be able to log their stats smoothly on the web application and track their progress over time through graphs.
+  - Languages/Framework/Library: Next.js, module.css, MongoDB, NextAuth.js.
+
+--
+### Pofessional projects (March 2023 - June 2024) : 
+- LUO **(Rental Lease Management)** : I maintain and develop features as part of a team for a dynamic web application designed to help users efficiently manage their rental properties, offering tools for tracking leases, payments, and important deadlines.
+  - Languages/Framework/Library: Next.js, module.css, MongoDB, NextAuth.js, MinIO.
+- LSA **(Insurance Aggregator tool)** : I maintain and develop new features for a web application for a company. The main goal of the application is to allow their team to sign in and guide clients in selecting the best insurance options tailored to their individual needs.
+  - Languages/Framework/Library: React, Python, CSS3, Redis. 
+
+--
+
+### School projects :
+- Journey Rater **(1rst solo school Project - Feb 2023)** : I build a web application where you can rate cities you've visited
+  - Languages/Framework/Library: React, Node.js, Express, TailwindCSS, MySQL.
+  - Repository: https://github.com/o6ris/cp4 
+- MarioCart rental **(Hackathon - Jan 2023)** : We build in 36 hours a car rental website **We got the 3rd place!**.
+  - Languages/Framework/Library: React, Node.js, Express, TailwindCSS, MySQL.
+  - Repository: https://github.com/o6ris/NoPainNoGainTheComeBack/tree/dev
+- Origins **(3rd team school Project - Jan 2023 - Feb 2023)** : VOD website for watching replays of e-sport games.
+  - Languages/Framework/Library: React, Node.js, Express, TailwindCSS, MySQL.
+  - Repository: https://github.com/WildCodeSchool/2022-09-RMT-JSCREW-Origins
+- A Space Journey **(Hackathon - Nov 2022)** : We build in 24 hours a web application of a tresor hunting on space **We got the 1st place!**.
   - Languages/Framework/Library : React & CSS3. 
   - Repository : https://github.com/o6ris/NoPainNoGain
   - Site : https://dev--hackathon-space-journey.netlify.app/
-- Pokebiz **(2nd school Project)** : Development of an e-commerce website where you can purshase a new Pokemon cards generation.
+- Pokebiz **(2nd team school Project - Nov 2022)** : e-commerce website where you can purshase new Pokemon cards generation.
   - Languages/Framework/Library : React, Node, Express, Bootstrap, SQL. 
   - Repository : https://github.com/o6ris/pokebiz
-- Inaka **(1rst school Project)** : Development of a website that makes you discover the most important places in Japan.
+- Inaka **(1rst team school Project - Oct 2022)** : Static website that makes you discover the most important places in Japan.
   - Languages/Framework/Library : HTML5, CSS3, Javascript. 
   - Repository : https://github.com/o6ris/inaka
   - Site : https://wildcodeschool.github.io/2022-09-JS-RMT-JSCREW-TEAM-B/
@@ -38,8 +63,6 @@ And it is by discovering the Web 3 🌐 and understood all the potential that it
 #### - Other :
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
-
-At the same time, I'm studying the functionality of the Blockchain ⚡ and the creation of SmartContract.
 
 
   
